@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Badminton Blog</title>
+    <description>Weekly badminton vids and maybe some other stuff :)
+</description>
+    <link>https://cangd.github.io/badminton//</link>
+    <atom:link href="https://cangd.github.io/badminton//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Jul 2016 00:07:26 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2016 00:07:26 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Badminton am 29-05-2016</title>
+        <description>&lt;p&gt;Erstes Match: Mai &amp;amp; Cang vs Cuong &amp;amp; Nugo&lt;/p&gt;
+
+&lt;div mi24-video-player=&quot;&quot; video-id=&quot;4iMHxCmvo6U3ptYzF-5Tvi&quot; player-id=&quot;-Yw_TVYkCr9pFdHzSN2c9K&quot; config-type=&quot;vmpro&quot; flash-path=&quot;//e-qa.video-cdn.net/v2/&quot; api-url=&quot;//d-qa.video-cdn.net/play&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;//e-qa.video-cdn.net/v2/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Zweites Match: Cang &amp;amp; Nugo vs Mai &amp;amp; Cuong&lt;/p&gt;
+
+&lt;div mi24-video-player=&quot;&quot; video-id=&quot;CQTd792TwXfvQr-f6kydDQ&quot; player-id=&quot;-Yw_TVYkCr9pFdHzSN2c9K&quot; config-type=&quot;vmpro&quot; flash-path=&quot;//e-qa.video-cdn.net/v2/&quot; api-url=&quot;//d-qa.video-cdn.net/play&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;//e-qa.video-cdn.net/v2/embed.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 03 Jul 2016 23:30:58 +0200</pubDate>
+        <link>https://cangd.github.io/badminton//badminton/2016/07/03/badminton20160529.html</link>
+        <guid isPermaLink="true">https://cangd.github.io/badminton//badminton/2016/07/03/badminton20160529.html</guid>
+        
+        
+        <category>Badminton</category>
+        
+      </item>
+    
+      <item>
+        <title>Badminton am 22-05-2016</title>
+        <description>&lt;p&gt;Erstes Match: Mai &amp;amp; Cang vs Cuong &amp;amp; Nugo&lt;/p&gt;
+
+&lt;div mi24-video-player=&quot;&quot; video-id=&quot;7gSVuzsPSwkuAqYqu7XcQZ&quot; player-id=&quot;-Yw_TVYkCr9pFdHzSN2c9K&quot; config-type=&quot;vmpro&quot; flash-path=&quot;//e-qa.video-cdn.net/v2/&quot; api-url=&quot;//d-qa.video-cdn.net/play&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;//e-qa.video-cdn.net/v2/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Zweites Match: Cang &amp;amp; Nugo vs Mai &amp;amp; Cuong&lt;/p&gt;
+
+&lt;div mi24-video-player=&quot;&quot; video-id=&quot;AvPX6KCXjKN9SeQx1wVg8u&quot; player-id=&quot;-Yw_TVYkCr9pFdHzSN2c9K&quot; config-type=&quot;vmpro&quot; flash-path=&quot;//e-qa.video-cdn.net/v2/&quot; api-url=&quot;//d-qa.video-cdn.net/play&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;//e-qa.video-cdn.net/v2/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Drittes Match: Mai &amp;amp; Nugo vs Cang &amp;amp; Cuong&lt;/p&gt;
+
+&lt;div mi24-video-player=&quot;&quot; video-id=&quot;21dyxWxq-JyU-3anGyanP_&quot; player-id=&quot;-Yw_TVYkCr9pFdHzSN2c9K&quot; config-type=&quot;vmpro&quot; flash-path=&quot;//e-qa.video-cdn.net/v2/&quot; api-url=&quot;//d-qa.video-cdn.net/play&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;//e-qa.video-cdn.net/v2/embed.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 03 Jul 2016 22:49:58 +0200</pubDate>
+        <link>https://cangd.github.io/badminton//badminton/2016/07/03/badminton20160522.html</link>
+        <guid isPermaLink="true">https://cangd.github.io/badminton//badminton/2016/07/03/badminton20160522.html</guid>
+        
+        
+        <category>Badminton</category>
+        
+      </item>
+    
+  </channel>
+</rss>
