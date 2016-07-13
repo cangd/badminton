@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Badminton am 03-07-2016"
-date:   2016-07-13 18:167:58 +0200
+date:   2016-07-13 18:16:58 +0200
 categories: Badminton
 ---
 
