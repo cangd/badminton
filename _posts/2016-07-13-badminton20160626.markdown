@@ -17,6 +17,6 @@ Drittes Match: Mai & Nugo vs Cang & Cuong
 
 <div mi24-video-player video-id="4RdR6Q3ucCkzZbUEybm4tv" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
 
-Revange Drittes Match: Mai & Nugo vs Cang & Cuong
+Revange Match: Mai & Nugo vs Cang & Cuong
 
 <div mi24-video-player video-id="6CSdSoEe78gUkH2iaVyQus" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
