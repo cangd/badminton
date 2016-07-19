@@ -5,18 +5,19 @@ date:   2016-07-19 16:50:58 +0200
 categories: Badminton
 ---
 
-Erstes Match - Erster Satz
+Erstes Match - Erster Satz:
+
 Nugo & Cang vs Mai & Cuong
 
 <div mi24-video-player video-id="9vRGhWby3wb6KnBhUC3tzN" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
 
-Erstes Match - Zweiter Satz
+Erstes Match - Zweiter Satz:
 
 Nugo & Cang vs Mai & Cuong
 
 <div mi24-video-player video-id="7CzHrSBKrj9G-Vr9fWhWaG" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
 
-Zweites Match
+Zweites Match:
 
 Mai & Cang vs Cuong & Nugo
 
