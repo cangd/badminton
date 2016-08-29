@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Badminton am Freitag 22-07-2016"
+date:   2016-08-06 21:45:58 +0200
+categories: Badminton
+---
+
+Erstes Match:
+
+Nugo & Cang vs Mai & Cuong
+
+<div mi24-video-player video-id="C_sYWXDsFQ7ZAFWLB8XuxT" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+----------------
+----------------
+Zweites Match:
+
+Mai & Cang vs Cuong & Nugo
+
+<div mi24-video-player video-id="F4v9WyczxpJdq9wTCqw2WB" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+
+Das Video ist leider unterbrochen worden, weil ich angerufen wurde :(
+----------------
+----------------
+Drittes Match:
+
+Mai & Nugo vs Cuong & Cang
+
+<div mi24-video-player video-id="9w5q9xyx_X-9fuxPtd7tyk" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+----------------
+----------------

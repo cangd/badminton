@@ -4,10 +4,16 @@ title:  "Badminton am 05-06-2016"
 date:   2016-07-07 11:47:58 +0200
 categories: Badminton
 ---
-Erstes Match: Mai & Cang vs Cuong & Nugo
+
+Erstes Match: Mai & Nugo vs Cang & Cuong
+
+<div mi24-video-player video-id="2pKQc_quCjip8PH_6dfZok" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+
+
+Zweites Match: Mai & Cang vs Cuong & Nugo
 
 <div mi24-video-player video-id="39f3bLktTtQNWazoxMgaGb" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
 
-Zweites Match: Cang & Nugo vs Mai & Cuong
+Drittes Match: Cang & Nugo vs Mai & Cuong
 
 <div mi24-video-player video-id="1tkH5S9ZwzC-j9JBVpjGP_" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>

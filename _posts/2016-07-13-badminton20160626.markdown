@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Badminton am 26-06-2016"
+date:   2016-07-13 18:07:58 +0200
+categories: Badminton
+---
+
+Erstes Match: Cang & Nugo vs Mai & Cuong
+
+<div mi24-video-player video-id="3ZWfBRiyh_EYfpT5V_feVf" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+
+Zweites Match: Mai & Cang vs Cuong & Nugo
+
+<div mi24-video-player video-id="ABKqKE-qwXjQFPGXFFmc-z" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+
+Drittes Match: Mai & Nugo vs Cang & Cuong
+
+<div mi24-video-player video-id="4RdR6Q3ucCkzZbUEybm4tv" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+
+Revange Match: Mai & Nugo vs Cang & Cuong
+
+<div mi24-video-player video-id="6CSdSoEe78gUkH2iaVyQus" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
