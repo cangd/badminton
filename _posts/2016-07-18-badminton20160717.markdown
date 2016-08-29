@@ -19,13 +19,13 @@ Mai & Nugo vs Cuong & Cang
 <div mi24-video-player video-id="67HN6-WuEFUYzaVyErVCJ5" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
 ----------------
 ----------------
-Drittes Match
+Drittes Match:
 
 Nugo & Cang vs Mai & Cuong
 
 <div mi24-video-player video-id="-x72qhqUTHhSwtcBs_ntcz" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
 ----------------
 ----------------
-Und neue Griffbänder gemacht :)
+Und neue Griffbänder gemacht :):
 
 <img src="https://dl.dropboxusercontent.com/s/qrczhz8bszadk6v/IMG_7781.JPG?dl=0" style="width:800px; height:600px;">

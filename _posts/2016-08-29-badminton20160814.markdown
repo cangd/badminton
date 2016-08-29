@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Badminton am Sonntag 14-08-2016"
+date:   2016-08-29 09:44:58 +0200
+categories: Badminton
+---
+
+Erstes Match:
+
+Mai & Cang vs Cuong & Nugo
+
+<div mi24-video-player video-id="6jaBf6a6vXSSoXG-HS2Tvq" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+
+----------------
+----------------
+
+Zweites Match:
+
+Mai & Nugo vs Cuong & Cang
+
+<div mi24-video-player video-id="A9TTrDNgvBUBGpz1f8UY_p" player-id="-Yw_TVYkCr9pFdHzSN2c9K" config-type="vmpro" flash-path="//e-qa.video-cdn.net/v2/" api-url="//d-qa.video-cdn.net/play"></div><script src="//e-qa.video-cdn.net/v2/embed.js"></script>
+----------------
+----------------
