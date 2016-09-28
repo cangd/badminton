@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Badminton am Sonntag 21-08-2016"
-date:   2016-08-29 09:44:58 +0200
+title:  "Badminton am Sonntag 18-09-2016"
+date:   2016-09-18 18:44:58 +0200
 categories: Badminton
 ---
 
